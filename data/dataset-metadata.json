@@ -1,0 +1,30 @@
+{
+  "title": "Tarot y baraja española: significado en español",
+  "subtitle": "Las 78 cartas del tarot y las 40 de la baraja española, en español",
+  "id": "taroluz/taroluz-cartas",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "tarot",
+    "spanish",
+    "text"
+  ],
+  "resources": [
+    {
+      "path": "cartas.csv",
+      "description": "Las cartas en CSV"
+    },
+    {
+      "path": "cartas.json",
+      "description": "Las cartas en JSON"
+    },
+    {
+      "path": "cartas.jsonl",
+      "description": "Una carta por línea"
+    }
+  ],
+  "description": "El significado en español de las 118 cartas. Publicado por Taroluz: https://www.taroluz.com/datos-abiertos. Licencia CC BY 4.0."
+}

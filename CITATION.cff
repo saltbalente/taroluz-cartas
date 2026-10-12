@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+title: "Significado de las cartas del tarot y de la baraja española"
+type: dataset
+version: "1.0.0"
+date-released: "2026-10-12"
+license: CC-BY-4.0
+url: "https://www.taroluz.com/datos-abiertos"
+authors:
+  - name: "Taroluz"
+    website: "https://www.taroluz.com"
+keywords:
+  - tarot
+  - baraja española
+  - significado de las cartas
+  - arcanos mayores
+  - arcanos menores
+  - español

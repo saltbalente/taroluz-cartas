@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "taroluz-cartas"
+version = "1.0.0"
+description = "El significado de las 78 cartas del tarot y las 40 de la baraja española, en español."
+readme = "README.md"
+license = { text = "MIT (código) · CC BY 4.0 (datos)" }
+authors = [{ name = "Taroluz" }]
+requires-python = ">=3.8"
+keywords = ["tarot", "baraja española", "significado de las cartas", "español", "dataset"]
+
+[project.urls]
+Homepage = "https://www.taroluz.com/datos-abiertos"
+Cartas = "https://www.taroluz.com/cartas"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/taroluz_cartas"]

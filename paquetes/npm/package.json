@@ -1,0 +1,33 @@
+{
+  "name": "taroluz-cartas",
+  "version": "1.0.0",
+  "description": "El significado de las 78 cartas del tarot y las 40 de la baraja española, en español: al derecho, invertida, amor, trabajo, sí o no.",
+  "keywords": [
+    "tarot",
+    "tarot en español",
+    "baraja española",
+    "significado de las cartas",
+    "arcanos",
+    "sí o no",
+    "dataset"
+  ],
+  "homepage": "https://www.taroluz.com/datos-abiertos",
+  "license": "MIT",
+  "author": "Taroluz (https://www.taroluz.com)",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./cartas.json": "./cartas.json"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "cartas.json",
+    "README.md"
+  ]
+}
