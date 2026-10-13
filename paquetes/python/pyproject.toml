@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "taroluz-cartas"
-version = "1.0.0"
+version = "1.0.1"
 description = "El significado de las 78 cartas del tarot y las 40 de la baraja española, en español."
 readme = "README.md"
 license = { text = "MIT (código) · CC BY 4.0 (datos)" }
@@ -15,6 +15,8 @@ keywords = ["tarot", "baraja española", "significado de las cartas", "español"
 [project.urls]
 Homepage = "https://www.taroluz.com/datos-abiertos"
 Cartas = "https://www.taroluz.com/cartas"
+Repository = "https://github.com/saltbalente/taroluz-cartas"
+DOI = "https://doi.org/10.5281/zenodo.23328712"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/taroluz_cartas"]

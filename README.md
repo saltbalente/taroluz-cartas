@@ -1,5 +1,7 @@
 # Significado de las cartas del tarot y de la baraja española — en español
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23328712.svg)](https://doi.org/10.5281/zenodo.23328712)
+
 **118 cartas, en español, en datos abiertos:** las 78 del tarot Rider-Waite y las 40 de la baraja española, con su
 significado al derecho e invertida, en el amor, en el trabajo, en el sí o no, sus palabras clave, su elemento y su
 astrología. Publicado por [Taroluz](https://www.taroluz.com), donde cada carta tiene su página:
@@ -90,7 +92,7 @@ usarlos, también con fines comerciales, citando a Taroluz con un enlace a https
 paquetes (`paquetes/`) es MIT. Las láminas del tarot son el Rider-Waite-Smith de 1909 (dominio público); las de la
 baraja española son arte propio de Taroluz y no entran en la licencia: el campo `imagen` solo enlaza a ellas.
 
-> Taroluz (2026). *Significado de las cartas del tarot y de la baraja española*, versión 1.0.0. https://www.taroluz.com/datos-abiertos. Licencia CC BY 4.0.
+> Taroluz (2026). *Significado de las cartas del tarot y de la baraja española*, versión 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.23328712. Licencia CC BY 4.0.
 
 ¿Un error o una mejora? Escríbenos desde https://www.taroluz.com/contacto.
 
