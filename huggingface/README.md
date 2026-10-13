@@ -15,7 +15,7 @@ tags:
   - cartomancy
 configs:
   - config_name: default
-    data_files: data/cartas.jsonl
+    data_files: cartas.jsonl
 ---
 
 # Significado de las cartas del tarot y de la baraja española

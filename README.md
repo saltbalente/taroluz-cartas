@@ -20,7 +20,7 @@ in Spanish; see the table below.*
 | `data/cartas.csv` | Lo mismo en CSV, para Excel o Google Sheets |
 | `paquetes/npm/` | El paquete `taroluz-cartas` de npm |
 | `paquetes/python/` | El paquete `taroluz-cartas` de PyPI |
-| `huggingface/` | La ficha del conjunto en Hugging Face |
+| `huggingface/` | La ficha del conjunto en Hugging Face: se sube como `README.md` junto a `cartas.jsonl` y `cartas.csv` |
 | `data/dataset-metadata.json` | Los metadatos para Kaggle |
 
 También se descargan de la web: [cartas.json](https://www.taroluz.com/datos-abiertos/cartas.json) ·
